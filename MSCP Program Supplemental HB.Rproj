@@ -11,6 +11,3 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
-
-BuildType: Website
-WebsitePath: /Volumes/GoogleDrive/My Drive/Cal Lutheran/1. MS Clinical Program/MSCP Program Handbook

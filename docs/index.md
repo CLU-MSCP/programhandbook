@@ -1,17 +1,16 @@
 --- 
-title: "A Minimal Bookdown Book"
-author: "Sean Kross"
-date: "2016-12-09"
+title: "MSCP Supplemental Program Handbook"
+author: "Jamie D. Bedics, PHD, ABPP"
+date: "2017-12-04"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: seankross/bookdown-start
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+github-repo: CLU-MSCP/programhandbook
+description: "Supplemental support and guidance for completing the MS in Clinical Psychology"
 ---
 
 # Preface {-}
 
-This is the very first part of the book.
+Welcome to the CLU MSCP Program.  The following is a guide to improve your chances for the successful completion of the degree.  Please use this as a supplement to the official student handbook located on Blackboard.  The supplemental handbook covers professional behavior as well as topics guiding your application towards doctoral programs. 

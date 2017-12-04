@@ -8,7 +8,6 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: CLU-MSCP/programhandbook
-url: 'https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/'
 description: "Supplemental support and guidance for completing the MS in Clinical Psychology"
 ---
 

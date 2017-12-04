@@ -6,4 +6,4 @@ Handbook for professional development and life after the <a href="https://www.ca
 
 
 
-Credit to the following for assistance in starting your own book using GitHub: http://seankross.com/bookdown-start/
+Credit to <a href="//http://seankross.com/bookdown-start/">Sean Kross</a> for easy to use set up using Bookdown.

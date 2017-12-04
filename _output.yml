@@ -2,6 +2,7 @@ bookdown::gitbook:
   css: style.css
   split_by: chapter
   config:
+    sharing: null
     toc:
       collapse: subsection
       before: |

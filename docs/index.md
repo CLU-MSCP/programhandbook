@@ -14,3 +14,5 @@ description: "Supplemental support and guidance for completing the MS in Clinica
 # Preface {-}
 
 Welcome to the CLU MSCP Program.  The following is a guide to improve your chances for the successful completion of the degree.  Please use this as a supplement to the official student handbook located on Blackboard.  The supplemental handbook covers professional behavior as well as topics guiding your application towards doctoral programs. 
+
+![Welcome to MSCP at CLU!](images/clu.jpeg)

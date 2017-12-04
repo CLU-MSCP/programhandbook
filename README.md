@@ -1,4 +1,9 @@
-A supplemental program handbook for the MS in Clinical Psychology Program at California Lutheran University.
+# Supplemental Handbook for the MS in Clinical Psychology Program at California Lutheran University, Thousand Oaks, CA. 
+
+Handbook for professional development and life after the <a href="https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/">CLU MSCP</a>. Program Director: <a href="https://www.callutheran.edu/faculty/profile.html?id=jbedics">Jamie Bedics, Ph.D., ABPP</a>.
 
 
-Credit to the following for assistancce in starting your own book using GitHub: http://seankross.com/bookdown-start/
+
+
+
+Credit to the following for assistance in starting your own book using GitHub: http://seankross.com/bookdown-start/

@@ -1,7 +1,7 @@
 --- 
 title: "MSCP Supplemental Program Handbook"
 author: "Jamie D. Bedics, PHD, ABPP"
-date: "2017-12-04"
+date: "2017-12-05"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]

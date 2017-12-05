@@ -2,6 +2,6 @@ book_filename: "clu-mscp-program-supplement"
 chapter_name: "Section "
 repo: https://github.com/CLU-MSCP/programhandbook
 output_dir: docs
-rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Diving-In.Rmd"]
+rmd_files: ["index.Rmd", "01-Introduction.Rmd", "02-Professionalism.Rmd", "03-DoctoralWork.Rmd"]
 clean: [packages.bib, bookdown.bbl]
 new_session: yes

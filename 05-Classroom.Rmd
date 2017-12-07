@@ -1,0 +1,13 @@
+# Classroom
+
+1. **How to address your Instructors.** Call your instructors by the proper title. If they are a PHD/PSYD then "Doctor" or "Professor" unless they tell you otherwise.  Ask them if you're unsure or just avoid actually saying their name.
+
+2. **In-Class.** Avoid excessive computer time.  If you are staring at your computer in class and look overly happy then it's likely that you're not listening and are a distraction to your instructor.  Even if you can listen, it doesn't matter as you might be a distraction to your instructor. Involve yourself in class and throw yourself into the material.
+
+3. **Timeliness.** Be on time and leave on time.  Let your instructor know if there's anything that can disrupt the class. 
+
+4. **Missing Class.** If you are sick, please let your instructor know in advance.  Instructors want you to get better and they also don't want you to get others sick. If something happens that requires you to miss class then email your instructor as soon as you can. Treat them like an employer. You do not have to share details of your private situation.  Let Dr. Bedics know if anything comes up.
+
+5. **Email Instructors.**  Always email from your CLU account.  Addresss instructors with "Hello" and end with "Thank you"
+
+6. **Act like a Graduate Student.**  How you manage your time and the time you put into your work is up to you.  Instructors will notice what you do and do not do.  We see minimum, less effort. We also see unread or unoutlined books. Similarly, we see and notice when you read, participate, ask questions, and go beyond what was expected.  In my experience, it's not so much a matter of aptitude but how you manage your time and motivated yourself. I comment *most* on this in letters of recommendation.

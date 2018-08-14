@@ -11,14 +11,15 @@ github-repo: CLU-MSCP/programhandbook
 description: "Supplemental support and guidance for completing the MS in Clinical Psychology"
 ---
 
-# Preface {-}
+# Introduction {-}
 
 Welcome to the CLU MSCP Program.  The following is a guide to improve your chances for the successful completion of the degree.  Please use this as a supplement to the official student handbook located on Blackboard.  The supplemental handbook covers professional behavior as well as topics guiding your application towards doctoral programs. 
 
-![Welcome to MSCP at CLU!](images/clu.jpeg)
+![Welcome to MSCP at CLU!](images/cover.jpg)
 
-* Program Director: Jamie Bedics email: <jbedics@callutheran.edu>
+* Program Director & Associate Professor: Jamie Bedics email: <jbedics@callutheran.edu>
+* Assistant Professor: Sunyoung Park email: <sunyoungpark@callutheran.edu>
 * Program Specialist: Mengmeng Liu email: <mengmengliu@callutheran.edu>
-* [MSCP Homepage](http://example.com "Title").
+* [MSCP Homepage](https://www.callutheran.edu/academics/graduate/ms-clinical-psychology/)
 * [MSCP Facebook](http://example.com "Title").
 * [MSCP Twitter](http://example.com "Title").

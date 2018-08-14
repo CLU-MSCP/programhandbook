@@ -17,8 +17,6 @@ Welcome to the CLU MSCP Program.  The following is a guide to improve your chanc
 
 
 <h5 align="center"><img src="https://raw.githubusercontent.com/CLU-MSCP/programhandbook/master/images/cover.jpg" alt="DC" align="center" style="width: 60%; height: 30%; margin:8px"></h5> 
-<center></center>
-
 
 
 * Program Director & Associate Professor: Jamie Bedics email: <jbedics@callutheran.edu>
